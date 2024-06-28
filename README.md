@@ -1,0 +1,2 @@
+Este curso é para aprender mais sobre a organização do Github referente as ações que possam ocorrer durante a realização das tarefas,
+mais detalhes aqui:<a href="https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/introducao-ao-git-e-github" target="_blank">Curso de Introdução ao Git e ao Git Hub</a> ofertado de forma gratuita pela plataforma FGV Online da Fubdação Getúlio Vargas
